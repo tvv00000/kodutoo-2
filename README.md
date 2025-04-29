@@ -3,7 +3,7 @@ Täiusta tunnis loodud typer'i rakendust.
 
 Tähtaeg: 05.05.2025 23:59
 
-# Kõik nõuded täidetud, siis 20 punkti.
+# Kõik nõuded täidetud, siis 30 punkti.
 
 1. Kasuta veebilehel mõnda Google fonti: https://fonts.google.com/
 2. Tulemused peavad tulema välja nupule vajutades ja minema peitu x vajutades. Võimalus kasutada tavalist modalit või sidebari. https://www.w3schools.com/howto/howto_css_modals.asp
@@ -12,7 +12,8 @@ Tähtaeg: 05.05.2025 23:59
 5. Teha rakendus paremini kasutatavaks ka mobiilivaatest kasutades media query't: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 6. Muuda lehe CSS-i vastavalt oma soovidele muutes ära kõik praegu rakenduses kasutusel olevad värvid, teksti suurused ja elementide mõõtmed. Ideid leiad siit: https://www.w3schools.com/css/default.asp
 7. Leia moodus, kuidas kasutada CSS-is vähemalt 5-t erinevat pseudo class-i: https://www.w3schools.com/css/css_pseudo_classes.asp
-8. Lisa omaltpoolt veel üks feature, mida hetkel rakenduses pole.
+8. Rakenda 4 erinevat heliklippi mängu jooksul - alguse jaoks, mängu jooksul, lõpus ja kui tulemus jõuab edetabelisse.
+10. Lisa omaltpoolt veel 3 feature, mida hetkel rakenduses pole.
 
 ### GitHub'i töövoog kodutöö esitamiseks
 
